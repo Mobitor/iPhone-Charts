@@ -1,4 +1,4 @@
 iPhone-Charts
 =============
 
-LIbrary for pie, line and bar charts for IOS.
+Mobitor Business Model Charts for iPhone / iPad bar chart line chart pie chart objective-c iOS
